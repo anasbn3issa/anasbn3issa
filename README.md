@@ -43,9 +43,12 @@ Here are some ideas to get you started:
 <img title="My status" align="center" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=anasbn3issa&hide=issues&theme=juicyfresh&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
 />
 
-<codersrank-skills-chart username="anasbn3issa"></codersrank-skills-chart>
-
+<codersrank-skills-chart
+  username="anasbn3issa"
+  labels
+  legend
+  tooltip
+></codersrank-skills-chart>
 
 <script src="https://unpkg.com/@codersrank/timeline@0.9.2/codersrank-timeline.min.js"></script>
-
-
+<script src="https://unpkg.com/@codersrank/skills-chart@0.9.21/codersrank-skills-chart.min.js"></script>
