@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 </div>
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=anasbn3issa&theme=juicyfresh&column=3&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
- [![trophy](https://github-profile-trophy.vercel.app/?username=anasbn3issa&theme=juicyfresh&column=3&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img title="My status" align="center" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=anasbn3issa&hide=issues&theme=juicyfresh&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
 />
