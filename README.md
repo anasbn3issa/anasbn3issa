@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 
 ## :eyes: Some Statistics
- <codersrank-timeline username="anasbn3issa"></codersrank-timeline>
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=anasbn3issa&count_private=true&include_all_commits=true" />
@@ -43,6 +42,5 @@ Here are some ideas to get you started:
 </div>
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=anasbn3issa&theme=juicyfresh&column=3&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=anasbn3issa&theme=juicyfresh&column=3&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img title="My status" align="center" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=anasbn3issa&hide=issues&theme=juicyfresh&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
-/>
