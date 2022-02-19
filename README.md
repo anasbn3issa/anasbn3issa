@@ -4,6 +4,11 @@
   <p><strong>Web Developer, computer science engineering Student</p></strong>
  </div>
 
+
+<!-- Profile views  with Typing SVG-->
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=anasbn3issa&label=Profile%20views&color=512dd2&style=flat" alt="dedpy" /> 
+<img align="right" src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&width=700&lines=>Wubba+Lubba-Dub+Dub.;Full+stack+developer%2C;Gl&Hf."></a>
+</p>
 <!--
 **anasbn3issa/anasbn3issa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
