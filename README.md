@@ -6,8 +6,7 @@
 
 
 <!-- Profile views  with Typing SVG-->
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=anasbn3issa&label=Profile%20views&color=512dd2&style=flat" alt="dedpy" /> 
-<img align="right" src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&width=700&lines=>Wubba+Lubba-Dub+Dub.;Full+stack+developer%2C;Gl&Hf."></a>
+<img align="right" src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&width=700&lines=>Wubba+Lubba-Dub+Dub.;Full+stack+developer%2C;Gl+&+Hf."></a>
 </p>
 <!--
 **anasbn3issa/anasbn3issa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,6 +39,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 
 ## :eyes: Some Statistics
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=anasbn3issa&label=Profile%20views&color=512dd2&style=flat" alt="anas-views" /> 
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=anasbn3issa&count_private=true&include_all_commits=true" />
