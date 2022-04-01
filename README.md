@@ -4,6 +4,9 @@
   <p><strong>Web Developer, computer science engineering Student</p></strong>
      <img align="right" src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&width=700&lines=>Wubba+Lubba-Dub+Dub.;Full+stack+developer%2C;Gl+&+Hf.">
  </div>
+ </br>
+ </br>
+ </br>
 
 
 <!-- Profile views  with Typing SVG-->
