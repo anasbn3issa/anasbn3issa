@@ -6,25 +6,7 @@
  </div>
  </br>
  </br>
- </br>
-
-
-<!-- Profile views  with Typing SVG-->
-<!--
-**anasbn3issa/anasbn3issa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+ <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
 - 🌱 I’m currently learning/practicing 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -32,22 +14,19 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-<!--
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
--->
 
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
+- 
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
 ## :eyes: Some Statistics
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=anasbn3issa&label=Profile%20views&color=512dd2&style=flat" alt="anas-views" /> 
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=anasbn3issa&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasbn3issa&layout=compact" />
+<div align="center">
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasbn3issa&layout=compact&hide_border=true&theme=onedark">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anasbn3issa&hide_border=true&theme=onedark">
+ <a href="https://github.com/mohamedtamer0">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=anasbn3issa&show_icons=true&theme=onedark&line_height=27" alt="Anas BEN AISSA github stats"/>
+</a>
 </div>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=anasbn3issa&theme=juicyfresh&column=3&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
- [![trophy](https://github-profile-trophy.vercel.app/?username=anasbn3issa&theme=juicyfresh&column=3&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
