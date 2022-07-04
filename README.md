@@ -7,9 +7,7 @@
 
 <h5 align="center">👉 I like listening to techno music🎵, playing Chess ♞, and chilling 😉</h5>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasbn3issa" alt="anasbn3issa" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anasbn3issa" target="blank"><img src="https://img.shields.io/twitter/follow/anasbn3issa?logo=twitter&style=for-the-badge" alt="anasbn3issa" /></a> </p>
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
@@ -18,6 +16,9 @@
 <a href="https://twitter.com/anasbn3issa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anasbn3issa" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anasbn3issa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-ben-aissa-371a27175" height="30" width="40" /></a>
 </p>
+
+
+<p align="left"> <a href="https://twitter.com/anasbn3issa" target="blank"><img src="https://img.shields.io/twitter/follow/anasbn3issa?logo=twitter&style=for-the-badge" alt="anasbn3issa" /></a> </p>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
 
