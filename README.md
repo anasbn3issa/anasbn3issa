@@ -8,11 +8,6 @@
 <h5 align="center">👉 I like listening to techno music🎵, playing Chess ♞, and chilling 😉</h5>
 
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=anasbn3issa&max-items=2&dates=false&style=--item-bg-color:%23f00;--item-border-radius:10px"
-/>
-
-
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
