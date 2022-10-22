@@ -11,7 +11,7 @@ I like listening to techno 🎧 , playing Chess ♞, and chilling 😉</div>
 - 🌱 I’m currently learning Vue3 and Go
 
 
-- ⚡ Used to using using Nextjs, Reactjs, Angular, NodeJS and Spring 💯  
+- ⚡ Used to using Nextjs, Reactjs, Angular, NodeJS and Spring 💯  
   
 
 - ❓ Ask me about anything related to Js frameworks and libraries, I would love to help and learn  
