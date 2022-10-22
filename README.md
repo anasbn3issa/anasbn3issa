@@ -3,18 +3,20 @@
 </div>  
   
 
-#### <div align="center">I'm Anas, a full-time full-stack freelance developer 👨‍💻 Still learning aiming towards the moon 🚀
+#### <div align="center">I'm Anas, a full-time full-stack freelance developer 👨‍💻 Casually learning aiming towards the moon 🚀
 Young, motivated highly captivated by web development and data analysis 
 I like listening to techno 🎧 , playing Chess ♞, and chilling 😉</div>  
   
 
-- 🌱 I’m currently learning Tailwindcss v3 and NestJs  
+- 🌱 I’m currently learning Vue3 and Go
+
+
+- ⚡ Used to using using Nextjs, Reactjs, Angular, NodeJS and Spring 💯  
   
 
 - ❓ Ask me about anything related to Js frameworks and libraries, I would love to help and learn  
   
 
-- ⚡ Fun fact: I'm unpredictable 💯  
   
 
 <br/>  
