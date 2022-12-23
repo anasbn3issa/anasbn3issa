@@ -8,7 +8,7 @@ Young, motivated highly captivated by web development and data analysis
 I like listening to techno 🎧 , playing Chess ♞, and chilling 😉</div>  
   
 
-- 🌱 I’m currently learning Nuxt3&Vue3 and HapiJS , Also taking at sanity.io and Strapi 👀
+- 🌱 I’m currently learning Nuxt3&Vue3 and HapiJS , Also taking a 👀 at sanity.io and Strapi 
 
 
 - ⚡ Comfortable with Nextjs, Angular, NodeJS and SpringBoot 💯 And if I want to curse a lot I'll go for Laravel or symfony or Golang sure .
