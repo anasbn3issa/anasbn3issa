@@ -1,20 +1,20 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 65%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 45%" />
 </div>  
   
 
-#### <div align="center">I'm Anas, a full-time full-stack freelance developer 👨‍💻 Casually learning aiming towards the moon 🚀
+#### <div align="center">I'm Anas, a full-time JavaScript student 👨‍💻 Casually learning aiming towards the moon 🚀
 Young, motivated highly captivated by web development and data analysis 
 I like listening to techno 🎧 , playing Chess ♞, and chilling 😉</div>  
   
 
-- 🌱 I’m currently learning Vue3 and Go
+- 🌱 I’m currently learning Nuxt3&Vue3 and HapiJS , Also taking at sanity.io and Strapi 👀
 
 
-- ⚡ Used to using Nextjs, Reactjs, Angular, NodeJS and Spring 💯  
+- ⚡ Comfortable with Nextjs, Angular, NodeJS and SpringBoot 💯 And if I want to curse a lot I'll go for Laravel or symfony or Golang sure .
   
 
-- ❓ Ask me about anything related to Js frameworks and libraries, I would love to help and learn  
+- ❓ Ask me about anything related to Js frameworks and libraries or SpringBoot , I would love to help and learn  
   
 
   
@@ -64,11 +64,11 @@ I like listening to techno 🎧 , playing Chess ♞, and chilling 😉</div>
 
 ### DevOps  
 <div align="center">  
+  <p align="center">Basic knowledge; will need more practice</p>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>   
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
 
 </div>
