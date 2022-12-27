@@ -1,9 +1,11 @@
-  
+  <div align="center">
+  <div>
     <a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="margin-right: 10px; height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-  
-    <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 45%" />
-  
-  
+  </div>
+    <div>
+      <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 45%" />
+    </div>
+  </div>
 
 #### <div align="center">I'm Anas, a full-time JavaScript student 👨‍💻 Casually learning aiming towards the moon 🚀
 Young, motivated highly captivated by web development and data analysis 
