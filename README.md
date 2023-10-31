@@ -1,10 +1,4 @@
-  <div align="center">
-    <div>
-      <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 45%" />
-    </div>
-  </div>
-
-#### <div align="center">
+#### <div align="center">Hey there
 I'm Anas, a full-stack software Engineer 👨‍💻 Casually learning aiming towards the moon 🚀</div>  
 <br/>  
 
