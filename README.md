@@ -1,5 +1,4 @@
-#### <div align="center">Hey there
-I'm Anas, a full-stack software Engineer 👨‍💻 Casually learning aiming towards the moon 🚀</div>  
+#### <div align="center">Hey there👋 I'm Anas, a full-stack software Engineer 👨‍💻 Casually learning aiming towards the moon 🚀</div>  
 <br/>  
 
 
