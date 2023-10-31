@@ -4,7 +4,8 @@
     </div>
   </div>
 
-#### <div align="center">I'm Anas, a full-stack JavaScript Engineer 👨‍💻 Casually learning aiming towards the moon 🚀</div>  
+#### <div align="center">
+I'm Anas, a full-stack software Engineer 👨‍💻 Casually learning aiming towards the moon 🚀</div>  
 <br/>  
 
 
