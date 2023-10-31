@@ -1,28 +1,10 @@
   <div align="center">
-  <div>
-    <a href="https://www.buymeacoffee.com/anasben3issa" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="margin-right: 10px; height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-  </div>
     <div>
       <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 45%" />
     </div>
   </div>
 
-#### <div align="center">I'm Anas, a full-time JavaScript student 👨‍💻 Casually learning aiming towards the moon 🚀
-Young, motivated highly captivated by web development and data analysis 
-I like listening to techno 🎧 , playing Chess ♞, and chilling 😉</div>  
-  
-
-- 🌱 I’m currently learning Nuxt3&Vue3 and HapiJS , Also taking a 👀 at sanity.io and Strapi 
-
-
-- ⚡ Comfortable with Nextjs, Angular, NodeJS and SpringBoot 💯 And if I want to curse a lot I'll go for Laravel or symfony or Golang sure .
-  
-
-- ❓ Ask me about anything related to Js frameworks and libraries or SpringBoot , I would love to help and learn  
-  
-
-  
-
+#### <div align="center">I'm Anas, a full-stack JavaScript Engineer 👨‍💻 Casually learning aiming towards the moon 🚀</div>  
 <br/>  
 
 
@@ -102,12 +84,6 @@ I like listening to techno 🎧 , playing Chess ♞, and chilling 😉</div>
   
 
 <br/>  
-
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=830px height=95px>
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=anasbn3issa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
