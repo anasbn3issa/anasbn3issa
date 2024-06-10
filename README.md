@@ -1,4 +1,9 @@
 #### <div align="center">Hey there👋 I'm Anas, a full-stack software Engineer 👨‍💻 Casually learning aiming towards the moon 🚀</div>  
+### <p align="center">Currently working as a Full stack development Engineer at Shipzzer</p>
++ Participating in Web and mobile Development.
++ Introducing responsive designs for small to medium sized phones and tablettes.
++ Implementing and maintaining features on the frontend as well as backend.
++ Experienced in Upgrading React Native apps : packages syntax updates / adapt the upgraded app to work with changes made by React Native.
 <br/>  
 
 
