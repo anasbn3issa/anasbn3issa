@@ -5,7 +5,7 @@
 + Implementing and maintaining features on the frontend as well as backend.
 + Experienced in Upgrading React Native apps : packages syntax updates / adapt the upgraded app to work with changes made by React Native.
 <br/>
-###<p align="center">On my freelance missions as a Full-Stack Developer</p>
+<h3 align="center">On my freelance missions as a Full-Stack Developer</h3>
 <ul>
   <li>
      Development of Chrome extension for real time invoices management giving managers easy access on Xero plateform.
