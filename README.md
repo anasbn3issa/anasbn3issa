@@ -5,7 +5,7 @@
 + Implementing and maintaining features on the frontend as well as backend.
 + Experienced in Upgrading React Native apps : packages syntax updates / adapt the upgraded app to work with changes made by React Native.
 <br/>
-### <p align="center">On my freelance missions as a Full-Stack Developer</p>
+###<p align="center">On my freelance missions as a Full-Stack Developer</p>
 + Development of Chrome extension for real time invoices management giving managers easy access on Xero plateform.
 + Transforming Figma designs to real life web applications using React TS, Redux toolkit and TailwindCSS ensuring responsivity and high performance.
 + Creating Spring Batch app in the context of a ETL project CSV -> CSV. 
