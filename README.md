@@ -1,15 +1,16 @@
 #### <div align="center">Hey there👋 I'm Anas, a full-stack software Engineer 👨‍💻 Casually learning aiming towards the moon 🚀</div>  
-### <p align="center">Currently working as a Full stack development Engineer at Shipzzer</p>
-+ Participating in Web and mobile Development.
-+ Introducing responsive designs for small to medium sized phones and tablettes.
-+ Implementing and maintaining features on the frontend as well as backend.
-+ Experienced in Upgrading React Native apps : packages syntax updates / adapt the upgraded app to work with changes made by React Native.
+<p align="center">Full Stack Development Engineer with Experience in Logistics and Data-Driven Applications</p>
+Participating in web and mobile development.
+Introducing responsive designs for small to medium-sized phones and tablets.
+Implementing and maintaining features on both the frontend and backend.
+Experienced in upgrading React Native apps: updating packages syntax / adapt the upgraded app to work with changes made by React Native.
 <br/>
 <h3 align="center">On my freelance missions as a Full-Stack Developer</h3>
 <ul>
   <li>
      Development of Chrome extension for real time invoices management giving managers easy access on Xero plateform.
   </li>
+  <li> Creation of Sanity CMS Apps to send data to vue.js/nuxt.js apps</li>
   <li>Transforming Figma designs to real life web applications using React TS, Redux toolkit and TailwindCSS ensuring responsivity and high performance.</li>
   <li>Creating Spring Batch app in the context of a ETL project CSV -> CSV.</li>
 </ul>
